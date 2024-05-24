@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+section .container .contact-page {
+  height: 600px;
+}
+section .container .contact-page .contact-form {
+  height: 100%;
+}/*# sourceMappingURL=style.css.map */
